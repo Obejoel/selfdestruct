@@ -1,0 +1,5 @@
+whitelisted wallet address
+0xA3d36dF86c6E0dB89222c2BbEdd097fdDa94a507
+
+deployed contract address
+0x0b12c64B00C14d6De31C29Bb3e433A41008657C6
